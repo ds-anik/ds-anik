@@ -6,7 +6,7 @@
 
 <br/>
 
-I am working as data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
+I am working as D&I data scientist in SLB (Schlumberger) company in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 <br/>
 
@@ -19,7 +19,7 @@ I am working as data scientist in SLB (Schlumberger) company living in Oslo, Nor
 - 💻 I love Machine Learning and learn anythings about it
 - 👯 I’m looking to collaborate on challenging projects 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Dsalirezanik@gmail.com
+- 📫 How to reach me: dsalirezanik@gmail.com
 
 
 <br/>
