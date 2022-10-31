@@ -1,12 +1,7 @@
-## Hey 👋, I'm Alireza (Hossein Zadeh) Nik. Welcome to my profile!
-
-[![Outlook](icons/email.png)](mailto:dsalirezanik@gmail.com)
-[![Facebook](icons/facebook.png)](https://www.facebook.com/alireza.hoseinzade.1/)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)
+## Hey 👋, I'm Alireza. Welcome to my profile!
 
 <br/>
-
-I am working as D&I data scientist in SLB (Schlumberger) company in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 <br/>
 
