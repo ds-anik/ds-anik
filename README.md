@@ -6,7 +6,7 @@
 
 <br/>
 
-🎓 I am a data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
+I am a data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ### <img src="https://github.com/Ali-HZN/Ali-HZN/blob/main/gifs/hacker.gif" width="45px"> About Me:
 
-- 📝 I have M.Sc. in Computational Engineering specialization of Data Science from University of Stavanger.
+- 📝 I have M.Sc. degree in Computational Engineering specialization of Data Science from University of Stavanger.
 - 🌱 I’m currently learning: All about **AI** and **Azure**
 - 💻 I love Machine Learning and learn anythings about it
 - 👯 I’m looking to collaborate on challenging projects 
@@ -39,7 +39,7 @@
 <a href="https://hadoop.apache.org/" title="Docker"><img src="icons/Hadoop.png" /></a>
 <a href="https://jupyter.org/" title="Docker"><img src="icons/jup.png" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" title="Docker"><img src="icons/power.png" /></a>
-<a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
+<a href="https://pytorch.org/" title="Docker"><img src="icons/tensorflow.png" /></a>
 
 <br/>
 <br/>
