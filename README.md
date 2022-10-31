@@ -6,7 +6,7 @@
 
 <br/>
 
-I am a data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
+I am working as data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 <br/>
 
@@ -35,11 +35,11 @@ I am a data scientist in SLB (Schlumberger) company living in Oslo, Norway. I'm 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://aws.amazon.com/" title="Docker"><img src="icons/middle.png" /></a>
-<a href="https://hadoop.apache.org/" title="Docker"><img src="icons/Hadoop.png" /></a>
-<a href="https://jupyter.org/" title="Docker"><img src="icons/jup.png" /></a>
-<a href="https://powerbi.microsoft.com/en-us/" title="Docker"><img src="icons/power.png" /></a>
-<a href="https://pytorch.org/" title="Docker"><img src="icons/tensorflow.png" /></a>
+<a href="https://aws.amazon.com/" title="aws"><img src="icons/middle.png" /></a>
+<a href="https://hadoop.apache.org/" title="hadoop"><img src="icons/Hadoop.png" /></a>
+<a href="https://jupyter.org/" title="jupyter"><img src="icons/jup.png" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" title="Power BI"><img src="icons/power.png" /></a>
+<a href="https://pytorch.org/" title="tensorflow"><img src="icons/tensorflow.png" /></a>
 
 <br/>
 <br/>
