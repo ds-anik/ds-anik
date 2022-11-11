@@ -5,9 +5,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/ds-anik/Ali-HZN/blob/main/gifs/developer.gif" width="375" height="270" />
+<img align="right" alt="GIF" src="https://github.com/ds-anik/ds-anik/blob/main/gifs/developer.gif" width="375" height="270" />
 
-### <img src="https://github.com/Ali-HZN/ds-anik/blob/main/gifs/hacker.gif" width="45px"> About Me:
+### <img src="https://github.com/ds-anik/ds-anik/blob/main/gifs/hacker.gif" width="45px"> About Me:
 
 - 📝 I have M.Sc. degree in Computational Engineering specialization of Data Science from University of Stavanger.
 - 🌱 I’m currently learning: All about **AI** and **Azure**
